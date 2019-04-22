@@ -1,0 +1,16 @@
+#form-layout {
+	border: 1px solid #a1a1a1;
+	background-color: #f3f3f3;
+	padding: 10px;
+	width: 300px;
+	margin: auto;
+}
+#form-layout input {
+	width: 150px;
+	display: block;
+	float: left;
+}
+.home {
+	border: 1px solid cornsilk;
+	background-color: cornsilk;
+}
